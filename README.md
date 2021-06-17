@@ -1,1 +1,1 @@
-# fotogallery-native-js
+# goit-js-hw-08-gallery
